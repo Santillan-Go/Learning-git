@@ -54,5 +54,8 @@ ______________________________________
 PARA AGREGLAR CONFICTOS=>
 
 DESPUES DE HACER LO MANUEL DEBEMOS DE GUARDADR  DESPUES AGREGAR UN COMMIT 
+1=> GIT ADD .
+2=> GIT COMMIT -M "MESSAGE"
 -----------------------------------
 PARA ELIMINAR EL UTIMO COMMIT 
+
