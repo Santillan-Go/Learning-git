@@ -41,6 +41,7 @@ FUCIONAR RAMAS
 GIT MERGE 
 
 
+
 --------------------------
 AGREGAR MODIFICACIONES A ULTIMO COMMIT
 
@@ -53,4 +54,5 @@ ______________________________________
 PARA AGREGLAR CONFICTOS=>
 
 DESPUES DE HACER LO MANUEL DEBEMOS DE GUARDADR  DESPUES AGREGAR UN COMMIT 
-
+-----------------------------------
+PARA ELIMINAR EL UTIMO COMMIT 
