@@ -56,6 +56,25 @@ PARA AGREGLAR CONFICTOS=>
 DESPUES DE HACER LO MANUEL DEBEMOS DE GUARDADR  DESPUES AGREGAR UN COMMIT 
 1=> GIT ADD .
 2=> GIT COMMIT -M "MESSAGE"
+3=>ESO ES TODO
 -----------------------------------
 PARA ELIMINAR EL UTIMO COMMIT 
 
+git reset --hard HEAD~1
+
+----------------------------------
+
+PARA ELIMINAR CAMBIOS CON BASE EL FLUJO
+=======>GIT RESET 
+
+
+git reset --soft
+
+# borra HEAD y Staging
+git reset --mixed
+
+# borra todo: HEAD, Staging y Working Directory
+git reset --hard
+
+# deshace todos los cambios después del commit indicado, preservando los cambios localmente
+git reset id-commit
